@@ -148,6 +148,7 @@ nineButton.addEventListener("click", function () {
 addButton.addEventListener("click", function () {
     operator = addButton.innerText;
     displayNumber(num1, operator, num2);
+
 });
 
 fourButton.addEventListener("click", function () {
